@@ -1,0 +1,11 @@
+
+.map {
+	width: 930px; 
+	height: 630px;
+	color: #333;
+}
+
+.title{
+	text-align: center;
+    font-size: -webkit-xxx-large;
+}
